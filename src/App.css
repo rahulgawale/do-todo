@@ -17,6 +17,7 @@ header,
 form {
 	min-height: 20vh;
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
 }
@@ -26,6 +27,7 @@ form button {
 	font-size: 2rem;
 	border: none;
 	background: white;
+	max-width: 90%;
 }
 form button {
 	color: #ff6f47;
