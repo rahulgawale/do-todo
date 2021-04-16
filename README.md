@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# This is the Code for Todo List App with React Js. 
+
+This is built with the help of Dev Ed's video https://www.youtube.com/watch?v=pCA4qpQDZD8
+
+Here is the live app https://do-todo.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
